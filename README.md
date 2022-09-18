@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-QR-Code-Component, newbie challenge on Frontend challenges. I took this challenge in understanding implementation of css file in html file an intepreting designs to markup language and stylesheet.
+QR-Code-Component, newbie challenge on Frontend challenges. I took this challenge for understanding implementation of css file in html file an intepreting designs to markup language and stylesheet.
 
 ### Screenshot
 
@@ -25,8 +25,8 @@ QR-Code-Component, newbie challenge on Frontend challenges. I took this challeng
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/mrpaulishaili/fm-qr-componen)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/mrpaulishaili/fm-qr-component)
+- Live Site URL: [Hosted on GitHub Pages](https://mrpaulishaili.github.io/fm-qr-component)
 
 ## My process
 
@@ -60,8 +60,8 @@ I will look forward to learning more on mixins and functions and how I can imple
 ## Author
 
 - Website - [Paul Ishaili C.](https://mrpaulishaili.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@ymrpaulishaili](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@mrpaulishaili](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@mrpaulishaili](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
 
